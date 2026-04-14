@@ -1,0 +1,6 @@
+@PLab4.Api_HostAddress = http://localhost:5101
+
+GET {{PLab4.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
